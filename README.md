@@ -1,5 +1,9 @@
 # Image- Recognition-Model
 
+## Overview of the Project
+
+This is a live site where you can recognize the face of the several celebrities which choosed you have to just drag and drop the image at the drop box then the site tell you about which celebritie is it or if it's not in the list it will show the tag line if it is in the list it will show the accuracy score of the matching image and show the celebritie image with the name.
+
 ## Problem Statement 
 
 Face recognition model for the selective celebrities 
@@ -7,6 +11,7 @@ Face recognition model for the selective celebrities
 
 ## Table of Content
 
+* [Overview of the Project]()
 * [Problem Statement](https://github.com/piyush033/Face-Recognition-Model#problem-statement)
 * [Datasets Used](https://github.com/piyush033/Face-Recognition-Model#datasets-used)
 * [Frameworks Used](https://github.com/piyush033/Face-Recognition-Model#frameworks-used)
