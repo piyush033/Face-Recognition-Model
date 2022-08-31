@@ -16,7 +16,7 @@ Face recognition model for the selective celebrities
 * [Datasets Used](https://github.com/piyush033/Face-Recognition-Model#datasets-used)
 * [Frameworks Used](https://github.com/piyush033/Face-Recognition-Model#frameworks-used)
 * [Face Recognition Data Dictionary](https://github.com/piyush033/Face-Recognition-Model#face-recognition-data-dictionary)
-* [Conclusion]()
+* [Conclusion](https://github.com/piyush033/Face-Recognition-Model#conclusion)
 * [Model Visualizations](https://github.com/piyush033/Face-Recognition-Model#model-visualizations)
 
 ## Datasets Used 
