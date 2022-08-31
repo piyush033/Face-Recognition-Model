@@ -11,11 +11,12 @@ Face recognition model for the selective celebrities
 
 ## Table of Content
 
-* [Overview of the Project]()
+* [Overview of the Project](https://github.com/piyush033/Face-Recognition-Model#overview-of-the-project)
 * [Problem Statement](https://github.com/piyush033/Face-Recognition-Model#problem-statement)
 * [Datasets Used](https://github.com/piyush033/Face-Recognition-Model#datasets-used)
 * [Frameworks Used](https://github.com/piyush033/Face-Recognition-Model#frameworks-used)
 * [Face Recognition Data Dictionary](https://github.com/piyush033/Face-Recognition-Model#face-recognition-data-dictionary)
+* [Conclusion]()
 * [Model Visualizations](https://github.com/piyush033/Face-Recognition-Model#model-visualizations)
 
 ## Datasets Used 
@@ -51,6 +52,10 @@ We also collect data by Web Scraping but I Prefer this method more convenient  s
 * Finn Wolfhard
 * Noah Centineo
 * Zayn Malik 
+
+## Conclusion
+
+[Live Server](file:///C:/Users/USER/Desktop/Machine_learning/Image_Recognition_Model_Project/UI/app.html)
 
  
 ## MODEL VISUALIZATIONS 
