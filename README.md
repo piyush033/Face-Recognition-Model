@@ -57,7 +57,11 @@ We also collect data by Web Scraping but I Prefer this method more convenient  s
 
 [Live Server](file:///C:/Users/USER/Desktop/Machine_learning/Image_Recognition_Model_Project/UI/app.html)
 
- 
+## UI
+
+![image](https://user-images.githubusercontent.com/100412728/187750929-cc97a800-7a94-417b-a058-56bdfa8ee3e9.png)
+
+
 ## MODEL VISUALIZATIONS 
 
 Data :
