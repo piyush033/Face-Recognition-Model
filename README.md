@@ -7,11 +7,11 @@ Face recognition model for the selective celebrities
 
 ## Table of Content
 
-* [Problem Statement](https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/README.md#problem-statement)
-* [Datasets Used](https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/README.md#datasets-used)
-* [Frameworks Used](https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/README.md#frameworks-used)
-* [Heart Disease Data Dictionary](https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/README.md#heart-disease-data-dictionary)
-* [Model Visualizations](https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/README.md#model-visualizations)
+* [Problem Statement](https://github.com/piyush033/Face-Recognition-Model#problem-statement)
+* [Datasets Used](https://github.com/piyush033/Face-Recognition-Model#datasets-used)
+* [Frameworks Used](https://github.com/piyush033/Face-Recognition-Model#frameworks-used)
+* [Face Recognition Data Dictionary](https://github.com/piyush033/Face-Recognition-Model#face-recognition-data-dictionary)
+* [Model Visualizations](https://github.com/piyush033/Face-Recognition-Model#model-visualizations)
 
 ## Datasets Used 
 
@@ -36,11 +36,11 @@ I collect the whole data by my own with the help of Fatkun extention of chorme w
 
 ## Face Recognition Data Dictionary
 
-# Data Collection:
+### Data Collection:
 For data collection I use Fatkun it is a chrome extension which helps you to download multiple images at the same time we can filter them by size and height of a picture 
 We also collect data by Web Scraping but I Prefer this method more convenient  so I use Fatkun for Data Collection.
 
-# Celebrities:
+### Celebrities:
 * Robert Pattinson
 * Nina Dobrev
 * Finn Wolfhard
